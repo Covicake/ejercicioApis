@@ -1,0 +1,30 @@
+h1{
+   margin: auto;
+   width: fit-content;
+   margin-bottom: 20px;
+}
+
+.cont2{
+   width: fit-content;
+   margin: auto;
+}
+
+.container{
+   margin: auto;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   flex-direction: column;
+}
+
+.imagen{
+   margin-top: 20px;
+   width: 300px;
+   height: 350px;
+   margin-bottom: 20px;
+}
+
+.row{
+   width: 300px;
+   text-align: left;
+}
